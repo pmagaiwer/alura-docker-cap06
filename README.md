@@ -1,2 +1,2 @@
-# alura-docker-cap06
-Criando containers sem dor de cabeça
+# alura-docker
+Projeto do curso de Docker
